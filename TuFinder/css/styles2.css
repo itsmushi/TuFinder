@@ -1,0 +1,5 @@
+a.link-disabled {
+   
+    /* And disable the pointer events */
+    pointer-events: none;
+  }
